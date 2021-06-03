@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration and vindication of the Lord Mayor, aldermen and commons of the City of London in Common-councell assembled. Ordered at a Common-Councel holden in the chamber of the Guild-hall of the City of London the 30 day of April 1660. that this declaration and vindication be forthwith printed and published. Sadler.</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82068</idno><idno type="EEBO-CITATION">99864846</idno>
+  <idno type="VID">168856</idno>
+  <idno type="EEBO-PROQUEST">2264205597</idno>
+  
+            <idno type="STC">Wing D559</idno>
+            <idno type="STC">Thomason E1023_2</idno>
+            <idno type="STC">ESTC R205475</idno>
+            <idno type="PROQUEST">99864846</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864846e"/>
+            <note>(EEBO-TCP ; phase 2, no. A82068)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168856)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1023[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration and vindication of the Lord Mayor, aldermen and commons of the City of London in Common-councell assembled. Ordered at a Common-Councel holden in the chamber of the Guild-hall of the City of London the 30 day of April 1660. that this declaration and vindication be forthwith printed and published. Sadler.</title>
+                  <author>City of London (England). Court of Common Council.</author>
+               </titleStmt>
+               <extent>[2], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by James Flesher, printer to the Honourable City of London,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 3".</note>
+                  <note>Reproductions of the originals in the British Library and the Goldsmiths' Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">City of London (England). --  Court of Common Council --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168856:1"/>
+            <p>A DECLARATION AND VINDICATION <hi>OF</hi> The Lord Mayor, Aldermen and Commons of the City of <hi>London</hi> in Common-councell assembled.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order">
+                        <p>
+                           <hi>ORdered at a Common-Councel holden in the Chamber of the</hi> Guild-hall <hi>of the City of</hi> London <hi>the</hi> 30 <hi>day of</hi> April 1660. <hi>that this Declaration and Vindication be forthwith printed and published.</hi>
+                        </p>
+                        <closer>
+                           <signed>Sadler.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Printed by JAMES FLESHER, Printer to the Honourable City of <hi>London,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:168856:2"/>
+            <pb n="1" facs="tcp:168856:2"/>
+            <opener>
+               <signed>
+                  <hi>Aleyn</hi> Mayor.</signed>
+            </opener>
+            <opener>
+               <dateline>A Common-Councell holden in the Chamber of the <hi>Guild-hall</hi> of the City of <hi>London</hi>
+                  <date>the thirtieth day of <hi>April</hi> in the year of our Lord 1660.</date>
+               </dateline>
+            </opener>
+            <head>A DECLARATION and VINDICATION of the Lord Maior, Aldermen and Commons of the City of <hi>London</hi> in Common-Councell assembled.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Lord Mayor, Aldermen and Commons of <hi>London</hi> in Common-counsell assembled, considering that this City by the good hand of God is in an hopefull way of be<g ref="char:EOLhyphen"/>ing delivered from the burthen of those Nati<g ref="char:EOLhyphen"/>onall pressures under which they have groaned ever since the year <hi>1648</hi> when the very founda<g ref="char:EOLhyphen"/>tions of the antient legal Government of these formerly flourishing Kingdoms, were not onely shaken but since even razed by a successive force, and usurpation: have thought it their duty, as
+<pb n="2" facs="tcp:168856:3"/>Christians, and English-men, in the first place to pay a Publique Tribute of thanks to God the Deliverer, and next to those Noble Instru<g ref="char:EOLhyphen"/>ments, His Excellency the Lord Generall <hi>Monck</hi> and the Army under his command, by whose Iust resolution and Actions, the doores of the Parliament were opened to the Worthy secluded Members, and by them the Doors of hope to these almost despairing Nations.</p>
+            <p>And now by the same Almighty mercy, and blessed meanes, having not onely a prospect, but also a faire earnest of possessing that happy reestablishment, which for so many and tedious yeares past hath been onely the subiect of their desires and prayers, and having thereby not onely their hearts, but their thoughts enlarged in the Iust Liberty of the present Parliament, they have thought it the duty of their trust, as they are the Representative of this populous &amp; famous City, to assert to the whole world that the generality &amp; most considerable persons ther<g ref="char:EOLhyphen"/>of were never tainted with any guilt of being Active in Council, or otherwise, to the subver<g ref="char:EOLhyphen"/>sion of that Antient and happy forme of Go<g ref="char:EOLhyphen"/>vernment, of King Lords, and Commons, un<g ref="char:EOLhyphen"/>der which for so many successions of generati<g ref="char:EOLhyphen"/>ons these Nations were made (by Gods bles<g ref="char:EOLhyphen"/>sing) glorious at home, and the dread of their Enemies, and sanctuary of their friends a<g ref="char:EOLhyphen"/>broad, and which forme of Government they ever did, and doe esteem the most prudent constitution of trust, for the preservation of the
+<pb n="3" facs="tcp:168856:3"/>societies of mankind, that ever any Nation enioyed, or Council can contrive.</p>
+            <p>But because in the general deluge of disor<g ref="char:EOLhyphen"/>der introduced upon these Kingdoms in the year <hi>1648.</hi> the iust constitution of the Govern<g ref="char:EOLhyphen"/>ment of this City was overturned into the hands of men of loose and dangerous princi<g ref="char:EOLhyphen"/>ples, who intruded themselves into the Com<g ref="char:EOLhyphen"/>mon-Councel of this City by an usurped Pow<g ref="char:EOLhyphen"/>er derived from the grand Overturners; and arrogated to themselves a Title to Act in the name of this City, have stained the Records of the Common-councel of London with most horrid Acts, tending to the Murther of the late King, and total Extinguishment of Kingly Government; which hath been mistaken both at home and abroad, as an Act by which a iust measure may be taken of the temper and In<g ref="char:EOLhyphen"/>clination of the whole City.</p>
+            <p>The Lord Maior, Aldermen and Commons in Common-councel assembled, have thought it necessary at this time to Vindicate them<g ref="char:EOLhyphen"/>selves, and those whom they represent, by pub<g ref="char:EOLhyphen"/>lishing the following Narrative of what their Records, their Consciences, and many wor<g ref="char:EOLhyphen"/>thy Patriots of the late Parliament that was assembled by the Kings Writ, can beare them Testimony.</p>
+            <p>And first, we appeal to the Record of an Act of Common-Councell, Dated the <hi>22</hi> of <hi>June 1648.</hi> which followeth in these words, <hi>At this Common-Councell the right Honourable the Lord
+<pb n="4" facs="tcp:168856:4"/>Mayor and Mr. Alderman <hi>Gibbs</hi> by directions of the Committee for the Militia of <hi>London,</hi> made relation to this Count of the eminent dangers that this City &amp; Kingdome are in, in regard of the great distempers thereof, And this Court being very sensible of the same, did enter into a large and serious debate how they might contribute to the preventing of those dan<g ref="char:EOLhyphen"/>gers, and the further effusion of blood, and for the set<g ref="char:EOLhyphen"/>ling of the peace and quiet of the Kingdome in such a way as may be to the glory of God, the honour of the King, the preservation of the Parliament, and the safety of the City and Kingdome. And to that pur<g ref="char:EOLhyphen"/>pose it is Ordered by this Court, that Mr. Alderman <hi>Adams,</hi> Sir <hi>John Gayer,</hi> Mr. Ald. <hi>Langham,</hi> Mr. Ald. <hi>Bunce,</hi> Mr. Ald. <hi>Gibbs,</hi> and Mr. Ald. <hi>Avery,</hi> or any four of them: Mr. <hi>Glide,</hi> Mr. <hi>Chetwin,</hi> Mr. <hi>William Bateman,</hi> Mr. <hi>Archer,</hi> Major <hi>Chamberleyne,</hi> Colonel <hi>Hooker,</hi> Mr. <hi>Edwin Browne,</hi> Mr. <hi>Mills,</hi> Colonel <hi>Player,</hi> Mr. <hi>Jesson,</hi> Colonel <hi>Bellamy,</hi> and Deputy <hi>Chamber<g ref="char:EOLhyphen"/>leyne,</hi> or any eight of them, shall forthwith seriously consider of the draught of a Petition to be presented to the honourable Houses of Parliament in the name of this Court, whereby they shall acknowledge with humble thankfulness the former favours received, and particularly of late in the releasing and restoring of the Magistrates and other Members of this Court and City, And that it hath alwaies been and still is the desires, and shall be the endevours of this Court to use all just means for the procuring and setling of a well-grounded peace in this Kingdome, and that a new warre may be prevented. And as conducing thereunto that it is the humble desire of this City that
+<pb n="5" facs="tcp:168856:4"/>the Parliament would be pleased with all speed that his Majesty may come to some of his houses neer the Parliament, that so in honour and safety to him and the Parliament application may be made to his Majesty, and that thereupon there may be a personall Treaty upon such Propositions as the Houses of Par<g ref="char:EOLhyphen"/>liament in their wisdomes shall think fit, for the set<g ref="char:EOLhyphen"/>ling of a well-grounded peace in this Kingdome ac<g ref="char:EOLhyphen"/>cording to the Covenant, And the same (if it may) to be done with the concurrence of the Kingdome of <hi>Scotland.</hi> And the said Committee are desired to take all things into their serious consideration that may tend to the particulars before mentioned: And thereupon to present unto this Court in writing their proceedings and doings therein, to the intent that this Court may give such further directions concerning the same as they shall see cause.</hi>
+            </p>
+            <p>And that result produced the Petition fol<g ref="char:EOLhyphen"/>lowing, which was accordingly delivered by the then Sheriffs and others to the Lords and Commons.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <opener>
+                           <salute>To the Right Honourable the Lords Assembled in the high Court of Parliament.</salute>
+                        </opener>
+                        <head>The humble Petition of the Lord Mayor, Aldermen and Commons of the City of <hi>London</hi> in Common-Councell Assembled.</head>
+                        <p>SHEWETH,</p>
+                        <p>THat your Petitioners do with all thankfulness humbly acknowledge the many former favours of this honourable house in granting several of their
+<pb n="6" facs="tcp:168856:5"/>Petitions, which gives them incouragement to make further application to your Honours, wherein they humbly take leave to express their own and their fellow Citizens deep sense and apprehensions of the present miseries, and very sad and deplorable condi<g ref="char:EOLhyphen"/>tion of this City and Kingdome, by reason of the growth of Superstition, Heresies, Schismes, and pro<g ref="char:EOLhyphen"/>phaness, occasioned by the long unsettlement of the Church, and likewise by the Commotions in seve<g ref="char:EOLhyphen"/>ral Counties which have been faithful and serviceable to the King and Parliament; And of the great effu<g ref="char:EOLhyphen"/>sion of blood, that hath been and is continued by reason of the said Commotions: And like to be in<g ref="char:EOLhyphen"/>creased by the falling off of a Considerable part of the Navy; All which threatneth the imminent destru<g ref="char:EOLhyphen"/>ction of Trade, and the utter Ruine of the King, Par<g ref="char:EOLhyphen"/>liament and Kingdome, if not (by the blessing of Almighty God) I upon your good Endeavours) speedily prevented: And in your Petitioners appre<g ref="char:EOLhyphen"/>hension the same is no way likely to be avoided, the peace of the Kingdome setled, and the brotherly union between the two Kingdomes of <hi>England</hi> and <hi>Scotland</hi> continued, but by a good Understanding and happy Agreement between the Kings Majesty and the honor<g ref="char:EOLhyphen"/>able houses of Parliament which your Petitioners are the more hopeful (by the mercy of God) may be effe<g ref="char:EOLhyphen"/>cted, when they call to minde the severall Expressions of his Majesty and both houses of Parliament, in their several and respective Declarations tending thereunto: And that it may appear to all the world, by this, as also by many former Petitions (notwithstanding the many scandalous Aspersions suggested to the con<g ref="char:EOLhyphen"/>trary)
+<pb n="7" facs="tcp:168856:5"/>this City is and ever hath been desirous of, and hath Endeavored to obtain, a safe and well groun<g ref="char:EOLhyphen"/>ded Peace according to the Solemne League and Covenant, their Interest being so much concerned therein.</p>
+                        <p>
+                           <hi>Your Petitioners do therefore humbly pray,</hi>
+                        </p>
+                        <p>That a Personal Treaty may forthwith be obtained betwixt his Majesty &amp; both Houses of Parliament, in the City of <hi>London,</hi> or some other Convenient place, where it may be most for the Honour and Safety of his Ma<g ref="char:EOLhyphen"/>jesties Royal Person, and Preservation of the Parliament; as in your <gap reason="illegible: blotted" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>sdomes shall be thought fit (unto which Treaty it is humbly desired: That our Brethren of Scotland may be Invited) That so (according to the duty of our Allegiance, Protestation, and Solemne League and Covenant) His Majesties Royal Person, Honor and Estate may be preserved, The power and priviledge of Parliament may be maintained, The just Rights and Liber<g ref="char:EOLhyphen"/>ties of the Subjects restored, Religion, and Government of the Church in purity Esta<g ref="char:EOLhyphen"/>blished: All differences may be the better Composed, a firme and lasting Peace conclu<g ref="char:EOLhyphen"/>ded: The union between the Two kingdomes continued according to the Covenant, All Armies disbanded, and all your Souldiers just Arears satisfied, The kingdomes burthens <gap reason="illegible: blotted" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>ased, And the laudable Government thereof
+<pb n="8" facs="tcp:168856:6"/>by the Good and wholesome Lawes and Cu<g ref="char:EOLhyphen"/>stomes happily advanced.</p>
+                        <closer>
+                           <signed>
+                              <hi>And they shall pray,</hi> &amp;c.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>With which concurred the Petition of the Field-Officers, Captains and other Officers of the Trained-Bands of the City of <hi>London,</hi> and Liberties thereof, in these Words.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <opener>
+                           <salute>To the Right Honourable the Lord Mayor, Aldermen, and Commons of the City of <hi>London</hi> in Common Councell Assembled.</salute>
+                        </opener>
+                        <head>The humble Peti<gap reason="illegible: blotted" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>n of the Field Officers, Captains and their Commission officers of the Trained Bands of the City of <hi>London</hi> and Liberties thereof.</head>
+                        <p>SHEWETH,</p>
+                        <p>THat your Petitioners do with all Thankfulness acknowledge your unwearied pains in managing the great Affairs of this City, and in particular your late Address to both houses of Parliament for a Per<g ref="char:EOLhyphen"/>sonall Treaty with his Majesty, which the Petitioners understanding is like to be in <hi>London,</hi> do think our selves bound in duty to submit our Annexed Petition to this Honorable Court to be presented to both Houses of Parliament, if in your wisdome it shall so seem meet.</p>
+                        <closer>
+                           <signed>
+                              <hi>And We shall ever pray,</hi> &amp;c.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="9" facs="tcp:168856:6"/>
+            <p> Which Petition was accordingly recom<g ref="char:EOLhyphen"/>mended to both Houses by another from this Court. The Effects whereof, were the appoin<g ref="char:EOLhyphen"/>ting of a Committee by the House of Com<g ref="char:EOLhyphen"/>mons, to treat with the Common-Councel and Commanders of the Souldiers in London, concerning their Engagement for the safety of the King and Parliament, during their in<g ref="char:EOLhyphen"/>tended Treaty, and touching the manner of their Security: the success of which Treaty with the Committee from the House of Com<g ref="char:EOLhyphen"/>mons, and the Common-councel, and Field-Officers of <hi>London,</hi> is to be seen in the Records of the Common-councel of the <hi>6, 11, &amp; 12</hi> of <hi>July, 1648.</hi> Which is as followeth:</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="Parliamentary_order">
+                        <head>
+                           <hi>An Order of the Right Honourable the</hi> Commons <hi>in high Court of Parliament assembled, For appointing a Committee of the House, to treet with the Commit<g ref="char:EOLhyphen"/>tee of the Common-councel of the City of</hi> London, <hi>and of the Commanders of the Souldiers and Com<g ref="char:EOLhyphen"/>mission Officers in the said City; Concerning their Engagement for the safety and security of his Maje<g ref="char:EOLhyphen"/>sties Person, and the Parliament, during the time of the intended Personal Treaty; with the Results of the Committee and Common-councel thereupon.</hi>
+                        </head>
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>Die Mercurii,</hi> 5. <hi>Julii,</hi> 1648.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Commons assembled in Parlia<g ref="char:EOLhyphen"/>ment, That it be referred to a Committee to confer with the Common-councel of the City of <hi>London</hi> and such as they shall appoint, and with the
+<pb n="10" facs="tcp:168856:7"/>Commanders of the Souldiers in <hi>London,</hi> concerning their Engagement for the safety of the King and Par<g ref="char:EOLhyphen"/>liament during the intended Treatie, and touching the manner of the security, <hi>(viz.)</hi> unto
+<list>
+                              <item>Mr. <hi>Whitlock</hi>
+                              </item>
+                              <item>Mr. <hi>Swinfen</hi>
+                              </item>
+                              <item>Mr. <hi>Hungerford</hi>
+                              </item>
+                              <item>Mr. <hi>Sam. Brown.</hi>
+                              </item>
+                              <item>Mr. <hi>John Ashe</hi>
+                              </item>
+                              <item>Sir <hi>Martyn Lumley</hi>
+                              </item>
+                              <item>Mr. <hi>Bois</hi>
+                              </item>
+                              <item>Mr. <hi>Joh. Stephens</hi>
+                              </item>
+                              <item>Sir <hi>Dudley North</hi>
+                              </item>
+                              <item>Sir <hi>Walter Erle</hi>
+                              </item>
+                              <item>Col. <hi>Copley</hi>
+                              </item>
+                              <item>Mr. <hi>Salloway</hi>
+                              </item>
+                              <item>Mr. <hi>Prideaux</hi>
+                              </item>
+                              <item>Sir <hi>Hen. Vain sen.</hi>
+                              </item>
+                              <item>Mr. <hi>Reynolds</hi>
+                              </item>
+                              <item>Major Gen. <hi>Brown</hi>
+                              </item>
+                              <item>Sir <hi>Robert Harley</hi>
+                              </item>
+                              <item>Sr <hi>Th. Withrington</hi>
+                              </item>
+                              <item>S<seg rend="sup">r</seg>
+                                 <hi>James Haringtō</hi>
+                              </item>
+                              <item>Mr. <hi>Grew</hi>
+                              </item>
+                              <item>Sir <hi>Jo. Evelyn of Wilts</hi>
+                              </item>
+                              <item>Col. <hi>Ven</hi>
+                              </item>
+                              <item>Mr. <hi>Drake</hi>
+                              </item>
+                              <item>Mr. <hi>Doddridge</hi>
+                              </item>
+                              <item>Mr. <hi>Edw. Stephens</hi>
+                              </item>
+                              <item>Mr. <hi>Ellis</hi>
+                              </item>
+                              <item>Mr. Serjeant <hi>Wilde</hi>
+                              </item>
+                              <item>Mr. <hi>Strode</hi>
+                              </item>
+                              <item>Mr. <hi>Gell</hi>
+                              </item>
+                              <item>Col. <hi>Wilson</hi>
+                              </item>
+                              <item>Mr. <hi>Wheeler</hi>
+                              </item>
+                              <item>Mr. <hi>Green</hi>
+                              </item>
+                              <item>Col. <hi>Edwards,</hi> and the Citizens and Burgesses of the City of <hi>London.</hi>
+                              </item>
+                           </list>
+                        </p>
+                        <p>This Committee is to confer with the Common-councel of the City of <hi>London,</hi> and such as they shall appoint, &amp; with the Commanders of the Souldiers in <hi>London,</hi> concerning their engagement for the safety of the King and Parliament during the intended Treatie, and touching the manner of their <hi>Security.</hi>
+                        </p>
+                        <closer>
+                           <signed>H. Elsyng Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <pb n="11" facs="tcp:168856:7"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <head>Commune Concilium tent. sexto die Julii, Anno Dom. <hi>1648.</hi> Annoque regni Regis <hi>Caroli</hi> Angliae, <hi>&amp;c.</hi> Vicesimo quarto.</head>
+                        <p>TO this Common-councel came divers Members of the honorable House of Commons, as a Com<g ref="char:EOLhyphen"/>mittee appointed by that House; And after some short preamble made by Sr <hi>Robert Harley</hi> Knight, and <hi>Giles Green</hi> Esquire, they presented an Order of the said House, made the Fifth day of this instant July, whereby the said Committee are authorized to confer with this Common-councel, and such as they shall appoint, and with the Commanders of the Soul<g ref="char:EOLhyphen"/>diers in <hi>London,</hi> concerning their Engagement for the safety of the King and Parliament during the intended Treatie, and touching the manner of their security; The which Order was here openly read, and the same Committee having withdrawn themselves, this Court took this business, being of great concernment, into debate and consideration; And do declare, <hi>That if His Majesty shall come up to the City of</hi> London, <hi>there to Treat with His Parliament for the setling of a safe and well grounded Peace, this Court (as much as in them lyeth) will (by the blessing of God) defend his Maje<g ref="char:EOLhyphen"/>sties Royall Person and the Parliament in honour and safety against all violence whatsoever, with their lives and estates during this Treaty, according to the Cove<g ref="char:EOLhyphen"/>nant.</hi>
+                        </p>
+                        <p>And further in pursuance of the said Order, It is or<g ref="char:EOLhyphen"/>dered by this Court, That Mr. Alderman <hi>Lang<g ref="char:EOLhyphen"/>ham,</hi>
+                           <pb n="12" facs="tcp:168856:8"/>Mr. Alderman <hi>Bunce,</hi> Mr. Alderman <hi>Avery,</hi> Mr. Alderman <hi>Bide,</hi> Mr. Alderman <hi>Packe,</hi> and Mr. Al<g ref="char:EOLhyphen"/>derman <hi>Brown,</hi> or any three of them; Mr. <hi>Vincent,</hi> Mr. <hi>Edwin Brown,</hi> Mr. <hi>Archer,</hi> Mr. <hi>Nathaniel Hall,</hi> Mr. Dep. <hi>Chamberlein,</hi> Mr. <hi>VVilliam Bateman,</hi> Major <hi>Chamberlein,</hi> Mr <hi>Pet. Jones,</hi> Mr. Dep. <hi>Clowes,</hi> Mr. Dep. <hi>Glyd,</hi> Mr. <hi>Chetwin,</hi> and Mr. <hi>Mills,</hi> or any six of them, shall be, and they are by this Court appointed a Com<g ref="char:EOLhyphen"/>mittee to confer with the said Committee of Parlia<g ref="char:EOLhyphen"/>ment: As namely, with Mr. <hi>Whitlock,</hi> Mr. <hi>Swinfen, &amp;c.</hi> touching the manner of the security for the safe<g ref="char:EOLhyphen"/>ty of the King and Parliament during the Treatie; And to consider what things are fit to be propounded for the better enabling of this Court to perform their said Engagement, and all things conducing thereunto; And to this purpose they are also to confer with the Commanders of the Souldiers in the City touching the same: And the said Committee appointed by this Common-councel are to acquaint this Court from time to time of their proceedings and opinions therein.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="court_order">
+                        <head>Commune Concilium tentum in Camera Guildhald' Civit' London' undecimo die Julii, <hi>1648.</hi> An<g ref="char:EOLhyphen"/>nóque regni Domini nostri <hi>Caroli</hi> nunc Regis An<g ref="char:EOLhyphen"/>gliae, &amp;c. Vicesimo quarto.</head>
+                        <p>AT this Common-councel the Committee ap<g ref="char:EOLhyphen"/>pointed by the Order of this Court made the Sixt day of this instant July, to confer with the Committee assigned by Order of the honourable House of Commons, concerning the Engagement of
+<pb n="13" facs="tcp:168856:8"/>this City for the safety of the King and Parliament during the intended Treatie, and touching the manner of their security; did now present unto this Court a Paper expressing their progress and proceedings there<g ref="char:EOLhyphen"/>in; The which was here openly read, and every par<g ref="char:EOLhyphen"/>ticular therein considered of, and some alteration was made in the Answers given to the Propositions made by the said honourable Committee: The tenor where<g ref="char:EOLhyphen"/>of is as followeth, <hi>viZ.</hi>
+                        </p>
+                        <p>The said honourable Committee did desire that the Military Forces, and the Court of Common-councel, would satisfie them what they intend and mean by those words in the Petition of the military Officers wherein the Petition of the Common-councel to the Parliament do concur; viz. [<hi>That the King and Par<g ref="char:EOLhyphen"/>liament may meet and Treat with Freedom, Honour and Safety, according to the ancient Fundamental Constitu<g ref="char:EOLhyphen"/>tions of this Kingdom.</hi>
+                        </p>
+                        <p>To this the Committee of Common-councel made answer as followeth, <hi>ViZ.</hi> By these words [The King and Parliament may meet and treat with Honour, Freedom and Safety, according to the ancient Funda<g ref="char:EOLhyphen"/>mental constitutions of this Kingdom] we mean, that the King and Parliament may meet and treat free from force or violence, which we conceive to be according to the ancient Fundamental constitutions of this King<g ref="char:EOLhyphen"/>dom.</p>
+                        <p>The said honourable Committee did further desire, that the Committee of Common-councel would satis<g ref="char:EOLhyphen"/>fie them, what is meant by these words, <hi>viz. [That they will defend His Majesties royal Person and the Par<g ref="char:EOLhyphen"/>liament, during this Treatie, according to the Covenant.</hi>
+                        </p>
+                        <pb n="14" facs="tcp:168856:9"/>
+                        <p> The Committee of the Common-councell did give answer thereunto as followeth; <hi>viz.</hi> By those words [To defend the King and Parliament according to the Covenant] we mean, That during the Treatie, we will defend the King and Parliament (as much as in us lyeth) free from all force and violence.</p>
+                        <p>The said honorable Committee did further desire, that the Committee of Common-councell should satisfie them, what they intend and mean in the Peti<g ref="char:EOLhyphen"/>tion of the Military Officers, (wherein the Petition of the Common-councell concur) by the word <hi>[Freedom]</hi> in the last clause; and likewise what they mean by these words <hi>[otherwise interrupt].</hi>
+                        </p>
+                        <p>To this the Committee of the Common-councell gave the several answers following, <hi>viz.</hi> By the word <hi>[Freedome]</hi> we understand free from force and violence; and by the words [otherwise interrupt] we mean all hostile forces whatsoever; the which answers were approved of by this Court.</p>
+                        <p>The said honorable Committee did further pro<g ref="char:EOLhyphen"/>pound, that in case the Parliament shall make choise of this Citie to be the place of the Treaty, and that the Common-councell on the behalf of the Citie, doe ingage themselves to defend both King and Parliament from violence during the Treaty, <hi>[whether the City will maintain their guards at their own charge.]</hi>
+                        </p>
+                        <p>To which the Committee of Common-councell did answer, that the same being a matter of charge, must be resolved by Common-councell, and that they would acquaint the Common-councell therewith; concern<g ref="char:EOLhyphen"/>ing this question, this Court did take the same into their serious consideration, and after some debate had
+<pb n="15" facs="tcp:168856:9"/>thereupon, this Court declared, That if the said in<g ref="char:EOLhyphen"/>tended Treaty be in <hi>London,</hi> that then the City will for the present defray the charge for the maintaining of the Military Guards, for the purpose aforesaid, du<g ref="char:EOLhyphen"/>ring the Treatie, and afterwards referre themselves to the King and Parliament for satisfaction thereof.</p>
+                        <p>The said honorable Committee did further propose, that in case the King shall not consent and agree to such things as shall be propounded and insisted on by both Houses of Parliament in this Treatie, for a safe and well-grounded Peace, <hi>[whether they will under<g ref="char:EOLhyphen"/>take and engage that the Person of the King shall be dispo<g ref="char:EOLhyphen"/>sed of as both Houses of Parliament shall think fit.]</hi>
+                        </p>
+                        <p>To which the said Committee of Common-councel did answer as followeth, <hi>viz.</hi> Under the favour of this honorable Committee, we cannot understand by the Order of the honorable House of Commons, which was delivered unto us for this Treatie, that there is any thing therein mentioned, tending to that which is by this honourable Committee propounded, con<g ref="char:EOLhyphen"/>cerning the delivery up of the King in case the King and Parliament did not agree.</p>
+                        <p>And the said honorable Committee did further de<g ref="char:EOLhyphen"/>clare, <hi>[that they were not satisfied with this answer, con<g ref="char:EOLhyphen"/>cerning the disposing of the Kings Person, in case the King and Parliament did not agree; and did expect a further answer.]</hi>
+                        </p>
+                        <p>To which the Committee of Common-councel did answer and say, That they would acquaint the Com<g ref="char:EOLhyphen"/>mon-councel therewith; concerning which proposition this Court did take the same into their serious con<g ref="char:EOLhyphen"/>sideration, and upon a full and large debate thereupon, did declare, that in case the said intended Treaty shall
+<pb n="16" facs="tcp:168856:10"/>be in <hi>London,</hi> and that his Majesty and his Parliament should not agree (which God forbid) then they con<g ref="char:EOLhyphen"/>ceive themselves bound to submit to the wisdome of both Houses of Parliament.</p>
+                        <p>The said honorable Committee did likewise desire, [<hi>that the Committee of Common-councel, and the Mili<g ref="char:EOLhyphen"/>tary Officers, should satisfie them in what manner, and by what means, they will make good their ingagement, by defending the King and Parliament against all vio<g ref="char:EOLhyphen"/>lence.</hi>
+                        </p>
+                        <p>To which the Committee of Common-councel made answer and propounded as followeth, <hi>viz.</hi> We do declare, and we are ready according to our engage<g ref="char:EOLhyphen"/>ment, (as much as in us lyeth) by the Trained-Bands of the City, and the late lines of Communication, to guard and defend the King and Parliament from all force and violence: And to the end that we may be inabled to perform the same, we doe humbly offer, That the Ordinance for the uniting of the Military Forces within the late lines of Communication, and the Parishes of the weekly Bills of Mortality, to the Forces of the City, to be one intire Militia, may be speedily passed.</p>
+                        <p>That the Militia may be enabled to raise such other Forces as they shall find needful, to carry them through this service; And that no other forces may be raised, or made use of within this City and late lines of Com<g ref="char:EOLhyphen"/>munication, but by authority of the said Militia by consent of Common-councel.</p>
+                        <p>To consider that our dangers are either from with<g ref="char:EOLhyphen"/>out or from within, and therefore propounded, <hi>viz.</hi> For those without, that for our better security in guar<g ref="char:EOLhyphen"/>ding the King and Parliament, we desire that some
+<pb n="17" facs="tcp:168856:10"/>course may be taken, as shall be though fit by wis<g ref="char:EOLhyphen"/>dome of Parliament, that no Forces in Arms may come within 30. miles of <hi>London</hi> during the time of the Treaty; And for those within, that what person or persons soever shall make any Tumult, Insurrection or disturbance during the time of this Treaty, after Pro<g ref="char:EOLhyphen"/>clamation made, it shall be death.</p>
+                        <p>That if the wisdome of Parliament shall think fit, that none that have born Armes against the Parlia<g ref="char:EOLhyphen"/>ment, or have or shall contribute thereunto, shall be permitted during the said Treaty to come within 30 miles of <hi>London,</hi> without leave of the Parliament had or to be had.</p>
+                        <p>Concerning this desire or proposition of the said honorable Committee, this Court doth approve of the Answers thereunto and Propositions made touch<g ref="char:EOLhyphen"/>ing the same. And this Court doth order that the said. Committee of Common-councel shall commu<g ref="char:EOLhyphen"/>nicate unto the said Honorable Committee, the afore<g ref="char:EOLhyphen"/>said Answers and Propositions of this Court, to be by them presented unto both Houses of Parliament. And also to declare unto them, that it is the humble desire of this Court, that the said Treaty may be with all expedition, for the preventing of further inconve<g ref="char:EOLhyphen"/>niences. And likewise that this Court will doe their endeavours (if the said Treaty be in <hi>London</hi>) for the finding out of some convenient place within the City for that purpose, and such other accommodations as shall be fitting.</p>
+                        <p>It is Ordered by this Common-councel, that the Common-councel-men and Commanders, or such as they shall appoint, shall within their several Precincts, either by calling all the Inhabitants before them, or by
+<pb n="18" facs="tcp:168856:11"/>their going from house to house to receive their con<g ref="char:EOLhyphen"/>currence to the said Engagement by subscription of their names.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="court_order">
+                        <head>Commune Concilium tent' in camera Guildhald' civit' London, duodecimo die Julii, <hi>1648.</hi> Annóque regni Domini nostri Caroli nunc Regis Angliae, &amp;c. Vice<g ref="char:EOLhyphen"/>simo quarto.</head>
+                        <p>IT is Ordered by this Court, that the Committee appointed by the Common-councel the sixth day of this instant <hi>July,</hi> to confer with the Committee assigned by Order of the Honorable House of Com<g ref="char:EOLhyphen"/>mons, concerning the ingagement of this City for the safety of the King and Parliament, during the intended Treaty, shall forthwith take care to disperse unto the Aldermen, Deputies, Common-councell-men, and Commanders in the respective Wards within this City, the Acts and resolutions of this Court, touching the same Engagement passed the 11. day of this moneth, and that under the same, these words be written, <hi>viz.</hi>
+                        </p>
+                        <p>We whose names are hereunto subscribed, do En<g ref="char:EOLhyphen"/>gage with the Common-councel, Commanders and Commission Officers of the City of <hi>London</hi> in their Engagement above mentioned, and promise with our lives and fortunes by the blessing of God to perform the same.</p>
+                        <p>It is Ordered that all Masters of Families be desired to subscribe in one column, and their sons, and men<g ref="char:EOLhyphen"/>servants and Inhabitants above sixteen yeers of age to subscribe in another column.</p>
+                        <p>It is Ordered that the said Committee shall take an
+<pb n="19" facs="tcp:168856:11"/>account of the Common-councel-men and Comman<g ref="char:EOLhyphen"/>ders of their proceedings herein, in writing, and return the same unto this Court with all expedition.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>According to which direction given the</hi> 12 July, <hi>we may safely declare, That neither the heads, nor Members of any considerable Family of this City, who were invited into this Ingagement for the security of the Perso<g ref="char:EOLhyphen"/>nal Treaty, declined the same, but freely sub<g ref="char:EOLhyphen"/>scribed: And accordingly, the Common-coun<g ref="char:EOLhyphen"/>cel and other Citizens endevoured with all diligence and fidelity to effect what they had so Engaged for: but it pleased Almighty God to permit their good intentions and endevours to be frustrated by the destructive Counsels and Actings of those who had designed to build up their dominion and fortunes on the Ruine of the King and Kingdom, who upon the</hi> 7. <hi>of</hi> December, 1648. <hi>invaded both Houses of Par<g ref="char:EOLhyphen"/>liament with Armed violence, dissolved the House of Lords, and excluded from the House of Commons all those Members whom they knew to be persons of more Honour and Iu<g ref="char:EOLhyphen"/>stice then to consent to the reducing of the Kingdom first to an Anarchy, and thereby to mould the Nation to receive any Impression of Slavery: And then by the usurped power of those, who were nothing less of right, and yet presumed to Call themselves, The Supreme Authority of the Nation; (because they had the longest Sword) all those worthy Citizens, who according to their allegiance and Cove<g ref="char:EOLhyphen"/>nant had ingaged to procure and secure a Per<g ref="char:EOLhyphen"/>sonal
+<pb n="20" facs="tcp:168856:12"/>Treaty with the King, were by pretended Ordinances of Parliament dated the</hi> 18 <hi>and</hi> 20 <hi>of</hi> December, 1648. <hi>rendred incapable to be Elected into the Common-councel, or any other Office of Trust in this City. And the Electi<g ref="char:EOLhyphen"/>on of a new Common-councel immediately succeeding; the Choice thereof was confined to so inconsiderable Number and Persons, as that nothing could rationally be expected to result from their debates but what was ser<g ref="char:EOLhyphen"/>vile, and horridly degenerate from the pristine honour of this City.</hi> Et hinc illae Lacrymae. <hi>For on the</hi> 13. <hi>of</hi> January, 1648. <hi>being assem<g ref="char:EOLhyphen"/>bled in Council, they Acted as followes:</hi>
+            </p>
+            <p>At a Common-councel held for the City of <hi>London</hi> in the <hi>Guild-hall</hi> of the said City the 13 of <hi>January, Anno Dom.</hi> 1648. Upon the departure of the Lord Mayor and Aldermen, It was resolved upon <hi>(nemine contradicente)</hi> That a Commoner of the same Court should take the Chair.</p>
+            <p>A Paper (Intituled, The humble Petition of the Commons of the City of <hi>London</hi> in Common-coun<g ref="char:EOLhyphen"/>cel assembled, and directed to the Commons of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> in Parliament assembled) being by some Members of this Court tendred to the Consideration of the Court; It was Resolved upon the question <hi>(nemine contradicente)</hi> That the said Petition should be read.</p>
+            <p>The said Petition being three times read and deba<g ref="char:EOLhyphen"/>ted, It was resolved upon the question <hi>(nemine con<g ref="char:EOLhyphen"/>tradicente)</hi> That the same should be presented in the name of this Court unto the Commons of <hi>England</hi> in Parliament assembled on Monday following.</p>
+            <p>It was resolved upon the question <hi>(nemine contra<g ref="char:EOLhyphen"/>dicente)</hi>
+               <pb n="21" facs="tcp:168856:12"/>That twenty Members of this Court shall present the said Petition in their gowns.</p>
+            <p>It was resolved upon the question, That a Narra<g ref="char:EOLhyphen"/>tive of this daies proceedings in this Court be imme<g ref="char:EOLhyphen"/>diately drawn up by four Members of this Court, and by them brought into this Court to be considered of.</p>
+            <p>The said Narrative being drawn up and brought in accordingly, was three times read and debated, And then resolved upon the question, <hi>(nemine contradicen<g ref="char:EOLhyphen"/>te)</hi> That the said Narrative is approved of by this Court, and be presented with the aforesaid Petition unto the Commons of <hi>England</hi> in Parliament.</p>
+            <p>Resolved upon the question, That four Coaches be ready on Monday morning at <hi>Guild-hall</hi> for the twen<g ref="char:EOLhyphen"/>ty persons abovesaid to ride in to <hi>Westminster</hi> for delivery of the said Petition and Narrative.</p>
+            <p>Resolved upon the question, That the said twenty persons, or any five or more of them be a Committee to attend the pleasure of the House of Commons touching the said Narrative.</p>
+            <p>Resolved upon the Question, That two Members of this Court keep a Record of the Acts of this Court to be presented, read, and Registred at the next Court. The Petition aforesaid followes, <hi>viz.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <opener>
+                           <salute>To the Honourable the Commons of <hi>England</hi> in Parliament assembled.</salute>
+                        </opener>
+                        <head>The humble Petition of the Commons of the City of <hi>London</hi> in Common-Councel assembled.</head>
+                        <p>
+                           <hi>Sheweth,</hi>
+                        </p>
+                        <p>THat seriously weighing those unspeakable toyles, difficulties, dangers, and temptations in every
+<pb n="22" facs="tcp:168856:13"/>kinde wherewith you have been hotly assaulted for many years together, by the powerful Influence whereof many great pretenders to the publick Inte<g ref="char:EOLhyphen"/>rest have been wrought off from the same; and withall considering that all this notwithstanding, you have stood like a mighty Rock firm and constant to your Trust, and are now Acting after such a rate, as our dead hopes break forth with triumph from their graves, we cannot but with inlarged hearts bless the God of Heaven for you, and (if it were possible) in the hearing of the whole world, proclaim our thank<g ref="char:EOLhyphen"/>fulness to you for the same.</p>
+                        <p>And apprehending that the Nonexecution of Justice, the intrusting of the Militia and Navy in the hands of Neutralists, Unfaithfull and Disaffected persons, the great decay of Trade, the protecting of many mens per<g ref="char:EOLhyphen"/>sons and estates from the due course of Law, and the unsetled condition of this Nation, are some of the great and principal Evils under which the hearts of thousands of your friends (yea the whole land) groan, We humbly pray,</p>
+                        <p n="1">1. <hi>That as you have begun to advance the Interest of Unpartial Justice, so you would vigorously proceed in the Execution thereof upon all the Grand and Capital Authors, Contrivers of, and Actors in the late wars against the Parliament and Kingdom, from the highest to the lowest; That the wrath of God may be appeased, Good men satisfied, and Evil men deterred from adventuring upon the like pra<g ref="char:EOLhyphen"/>ctices for the future.</hi>
+                        </p>
+                        <p n="2">2. <hi>That the Militia, Navy, and all places of Power, may be put into the hands of none but such as by a Constant and Uniform tenour of their words and
+<pb n="23" facs="tcp:168856:13"/>actions have appeared themselves faithful to you and the Just rights of the Nation.</hi>
+                        </p>
+                        <p n="3">3. <hi>That with all convenient speed you would think up<g ref="char:EOLhyphen"/>on some effectual Course for the recovery and in<g ref="char:EOLhyphen"/>creasing of the almost lost Trade and Manufacture of this City and Kingdom.</hi>
+                        </p>
+                        <p n="4">4. <hi>That no Priviledge whatsoever may exempt any from the Just satisfaction of their due debts.</hi>
+                        </p>
+                        <p n="5">5. <hi>That having by your Votes of the fourth of</hi> Janu<g ref="char:EOLhyphen"/>ary <hi>instant declared, That the Commons of Eng<g ref="char:EOLhyphen"/>land in Parliament assembled have the Supreme power of this Nation, you would (as far as you are able) indeavour the setling thereof upon foun<g ref="char:EOLhyphen"/>dations of Righteousness and Peace: in the mainte<g ref="char:EOLhyphen"/>nance and prosecution of which Votes and of these our Just and Humble desires we are resolved to stand by you to the uttermost of our power against all op<g ref="char:EOLhyphen"/>position whatsoever.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>The Narrative before mentioned follows,</hi> viz.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="report">
+                        <p>
+                           <hi>A Narrative of the Proceedings of the Court of Com<g ref="char:EOLhyphen"/>mon-councel held in Guild-hall London the</hi> 13 <hi>of</hi> Ja<g ref="char:EOLhyphen"/>nuary 1648. <hi>humbly presented by the Order of the said Court to the Honourable the Commons of England assembled in Parliament.</hi>
+                        </p>
+                        <p>A Common-councel being lawfully summoned to meet at eight of the Clock in the morning upon the day above-written, we, Commoners of the City of <hi>London,</hi> Members of the said Court, in obedience to the said Summons and for discharge of the trust reposed in us, made our appearance at the usual place of meeting for the said Court about the time appoin<g ref="char:EOLhyphen"/>ted.
+<pb n="24" facs="tcp:168856:14"/>About eleven of the Clock the Lord Mayor accompanied onely with two of the Aldermen took the Chaire, we then desiring the Lord Mayor that the Acts of the last Court might be read according to the usual Course of the said Court, and the fur<g ref="char:EOLhyphen"/>ther Confirmation of the said Acts, could not obtain the same (though earnestly desired) for above an hours space; after which some members of the said Court (being part of a Committee formerly Chosen by the said Court) tendred a Petition thereunto to be read and considered of, which Petition (being the same now presented to this Honourable house) was drawn up by them in reference to an Order of the said Court, and received the approbation of the major part of the Quorum of that Committee; And though it was of<g ref="char:EOLhyphen"/>ten and earnestly prest for a long time by the major part of the Court that it might be read, to receive the sense of the Court, yet the Lord Mayor wholly re<g ref="char:EOLhyphen"/>fused to suffer the same, or that the question should be put whether it should be read yea or no. After the fruitless expence of many hours, another question being drawn up, the major part of the Court requi<g ref="char:EOLhyphen"/>red it to be put to be decided according to the right and custome of the Court, and being denied therein, declared how unjust, and of what a destructive nature to the Being of the Court such a denyal would be, yet notwithstanding the Lord Mayor with the two Aldermen departed and left the Court sitting, to the great grief and general dissatisfaction of the same. Being thus deprived of our ordinary assistance for our proceedings, we did then require and command the common Serjeant and Townclark, Officers of the said Court, to stay in the Court and put the
+<pb n="25" facs="tcp:168856:14"/>question, both which they contemptuously refused, and left the Court sitting likewise: whereupon in dis<g ref="char:EOLhyphen"/>charge of our trust, and in our tender care of the Com<g ref="char:EOLhyphen"/>mon good of City and Kingdome, we did stay and remain a Court, wherein was thrice read, debated, and Voted <hi>(nemine contradicente)</hi> the Petition hereunto annexed, to be as this day presented to this Honora<g ref="char:EOLhyphen"/>ble House.</p>
+                        <p>Having given this Honourable House this brief but true Narrative of part of our sufferings for eight hours at least, in the breach (as we con<g ref="char:EOLhyphen"/>ceive) of our undoubted Rights and Privi<g ref="char:EOLhyphen"/>ledges, and conceiving the like Obstructions, would render our meetings in Council altoge<g ref="char:EOLhyphen"/>ther fruitless for publick benefit and service for the future; we are forced to appeal unto this honourable House for such considerations thereof and directions herein, as may make the Commons of <hi>London</hi> in Common-councel as<g ref="char:EOLhyphen"/>sembled, useful to the ends for which they were chosen.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>An Act so abhorrent to all Principles of Christianity, and so nauseous to all men of sober principles, that no Comment can ren<g ref="char:EOLhyphen"/>der it more odious; and therefore this Court cannot but declare their solemn protest in the behalf of themselves and the generality of this City, that they did then and still do perfectly abominate the same: And cannot omit to pro<g ref="char:EOLhyphen"/>fess their thankful memory of the noble and gallant Resolutions of t<gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>hen Lord Mayor Alderman</hi> Reynardson, <hi>and his Brethren the Aldermen, who so valiantly resisted the tur<g ref="char:EOLhyphen"/>bulent
+<pb n="26" facs="tcp:168856:15"/>disorders of that Mechanick Iuncto during many hours assault; and at last pru<g ref="char:EOLhyphen"/>dently retreated, and washed their hands from the Guilt of those bloudy Resolves. And as this Court doth hope, that this preceding Narrative hath sufficiently vindicated it, and the generality of this City, (with all impar<g ref="char:EOLhyphen"/>tial men) from the least suspicion of those Ru<g ref="char:EOLhyphen"/>mors, with which the world hath a long time been abused, so they doubt not, but since the choice of the Common-councel hath been put into any degree of freedom, they have given sufficient Testimony, that to their utmost ca<g ref="char:EOLhyphen"/>pacities they have Acted cordially and strenu<g ref="char:EOLhyphen"/>ously in order to the Attainment of those bles<g ref="char:EOLhyphen"/>sed beginnings of Re-establishment of these Kingdoms, according to the Motions of this present Parliament, to whom they shall faith<g ref="char:EOLhyphen"/>fully adhere, and cheerfully submit. And as it hath been our prayer and endevour for our selves and the Nation, so we trust we shall sud<g ref="char:EOLhyphen"/>denly (by the good hand of God) and the wis<g ref="char:EOLhyphen"/>dom of both Houses of Parliament, be put un<g ref="char:EOLhyphen"/>der the protection of the Iust and fundamen<g ref="char:EOLhyphen"/>tal Government of Hereditary and well-tem<g ref="char:EOLhyphen"/>pered Monarchy, according to the ancient Laws of the Nation, and thereby reap a plen<g ref="char:EOLhyphen"/>tiful Harvest of Peace and Ioy, for the long Seed-time of Tears that we have had.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
